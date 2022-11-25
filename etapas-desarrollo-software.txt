@@ -1,0 +1,7 @@
+1. Análisis
+2. Diseño
+3. Codificación
+4. Pruebas
+5. Documentación
+6. Explotación
+7. Mantenimiento
